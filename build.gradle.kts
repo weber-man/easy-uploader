@@ -10,6 +10,8 @@ repositories {
 }
 
 dependencies {
+    implementation("aws.sdk.kotlin:s3:1.2.42")
+
     testImplementation(kotlin("test"))
 }
 
