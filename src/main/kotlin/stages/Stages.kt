@@ -1,3 +1,0 @@
-interface Stages {
-    fun register()
-}
